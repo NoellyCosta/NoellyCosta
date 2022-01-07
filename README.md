@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Noelly Costa
 
 - ⛏️  Desenvolvedora fullstack 
-- 🌱 Estudando AWS
 - 📫 contate-me no e-mail: noelly1232@gmail.com
 
  <div>
