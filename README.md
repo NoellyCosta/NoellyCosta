@@ -1,7 +1,7 @@
-### Olá! Eu sou a Noelly Costa
+### Hello everyone! I'm Noelly Costa
 
-- ⛏️  Desenvolvedora fullstack 
-- 📫 contate-me no e-mail: noelly1232@gmail.com
+- ⛏️ Fullstack developer
+- 📫 contact me by email: noelly1232@gmail.com
 
  <div>
   <a href="https://github.com/NoellyCosta">
